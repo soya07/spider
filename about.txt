@@ -1,0 +1,10 @@
+#spider by FangYan
+#fy_storm@163.com
+#简易贴吧爬虫，支持爬取一级评论，用户名称，时间
+#暂不支持二级评论
+
+Files文件夹存放URL合集
+Db文件夹存放从URL合集分别访问爬取的页面内容
+spider.ipynb为爬虫程序
+
+暂不支持自动生成目录，需手动在spider.ipynb相同路径下创建db和files文件夹
